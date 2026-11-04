@@ -30,3 +30,10 @@ const bigNumber = 337383833939302020202n //Bigint
 
   console.log(typeof myFunction);   // typeof is used to check datatype
 
+//++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Memory type
+//1. Stack memory (Isme Primitive datatype use hota h) isme copy memory me milta h
+//2. Heap (Non-Primitive) isme memory me reference milta h
+
+
