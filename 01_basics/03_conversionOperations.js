@@ -1,7 +1,7 @@
 let score = "krishna"
 
-//console.log(typeof score);
-//console.log(typeof(score));
+//console.log(typeof score); //res: string
+//console.log(typeof(score));  // res: string
 
 let valueInNumber = Number(score)
 //console.log(typeof valueInNumber);
@@ -62,7 +62,7 @@ num1 = num2 = num3 = 2 + 2
 
 let gameCounter = 100
 ++gameCounter;
-console.log(gameCounter);
+//console.log(gameCounter);
 
 // link to study
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
